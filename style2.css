@@ -1,0 +1,192 @@
+
+.saree{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    height: 500px;
+    padding: 10px;
+    border-style: double;
+    background-color:rgb(241, 230, 230);
+}
+.saree button{
+    margin: 25px 0 25px;
+    width: 100px;
+    background-color: rgb(100, 231, 100);
+    border-radius: 5px;
+
+}
+.rate{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.saree h3{
+    border: 1px solid grey;
+    width:50px ;
+    background-color: grey;
+
+}
+.rate h4{
+    color: yellow;
+    border: 1px solid grey;
+    background-color: rgb(15, 235, 162);
+}
+.saree img{
+    border-radius: 5px;
+}
+.rate h2{
+    color:blueviolet;
+}
+.saree h4{
+    color: brown;
+
+}
+
+
+.chudi{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    height: 500px;
+    padding: 10px;
+    border-style: double;
+    background-color:rgb(241, 230, 230);
+}
+.chudi button{
+    margin: 25px 0 25px;
+    width: 100px;
+    background-color: rgb(100, 231, 100);
+    border-radius: 5px;
+
+}
+.rate1{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.chudi h3{
+    border: 1px solid grey;
+    width:50px ;
+    background-color: grey;
+
+}
+.rate1 h4{
+    color: yellow;
+    border: 1px solid grey;
+    background-color: rgb(15, 235, 162);
+}
+.chudi img{
+    border-radius: 5px;
+}
+.rate1 h2{
+    color:blueviolet;
+}
+.chudi h4{
+    color: brown;
+
+}
+
+.dress{
+    
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    background-image: url(cele.jpeg);
+    border: 1px solid black;
+    padding: 10px;
+    width:1300px; 
+    height:600px ;
+}
+
+
+.shirt{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    height: 500px;
+    padding: 10px;
+    border-style: double;
+    background-color:rgb(241, 230, 230);
+}
+.shirt button{
+    margin: 25px 0 25px;
+    width: 100px;
+    background-color: rgb(100, 231, 100);
+    border-radius: 5px;
+
+}
+.rate2{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.shirt h3{
+    border: 1px solid grey;
+    width:50px ;
+    background-color: grey;
+
+}
+.rate2 h4{
+    color: yellow;
+    border: 1px solid grey;
+    background-color: rgb(15, 235, 162);
+}
+.shirt img{
+    border-radius: 5px;
+}
+.rate2 h2{
+    color:blueviolet;
+}
+.shirt h4{
+    color: brown;
+
+}
+
+
+
+.frock{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    height: 500px;
+    padding: 10px;
+    border-style: double;
+    background-color:rgb(241, 230, 230);
+}
+.frock button{
+    margin: 25px 0 25px;
+    width: 100px;
+    background-color: rgb(100, 231, 100);
+    border-radius: 5px;
+
+}
+.rate3{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.frock h3{
+    border: 1px solid grey;
+    width:50px ;
+    background-color: grey;
+
+}
+.rate3 h4{
+    color: yellow;
+    border: 1px solid grey;
+    background-color: rgb(15, 235, 162);
+}
+.frock img{
+    border-radius: 5px;
+}
+.rate3 h2{
+    color:blueviolet;
+}
+.frock h4{
+    color: brown;
+
+}
